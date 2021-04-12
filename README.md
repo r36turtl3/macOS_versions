@@ -21,3 +21,43 @@ M1 ... M1 Chip
 | 10.11 | El Capitan | >= 2012 | >= 2012 | >= 2012 |  >= 2012 | >= 2012 | E2015 | | >= 2012 | >= 2012 | >= 2012 | L2013 |
 | 10.10 | Yosemite | >= 2012 | >= 2012 | | >= 2012 | >= 2012 | | | >= 2012 | >= 2012 | >= 2012 | L2013 |
 | 10.09 | Mavericks | >= M2009 | M/L2007_15"_17" | |  >= L2008 | >= L2008 | L2008_Alu, E2009_Polycarbonat |  | >= M2007 | >= M2007 | >= M2009 | >= M2008 |
+
+<br/>
+<br/>
+
+- macOS Catalina 10.15 can upgrade Mojave, High Sierra, Sierra, El Capitan, Yosemite or Mavericks
+- macOS Mojave 10.14 can upgrade High Sierra, Sierra, El Capitan, Yosemite, Mavericks or Mountain Lion
+- macOS High Sierra 10.13 can upgrade Sierra, El Capitan, Yosemite, Mavericks or Mountain Lion
+- macOS Sierra 10.12 can upgrade El Capitan, Yosemite, Mavericks, Mountain Lion or Lion
+- OS X El Capitan 10.11 can upgrade Yosemite, Mavericks, Mountain Lion, Lion or Snow Leopard
+- OS X Yosemite 10.10 can upgrade Mavericks, Mountain Lion, Lion or Snow Leopard
+
+<br/>
+<br/>
+
+Download installers (using Safari to search in the App Store):
+- [macOS Big Sur 11](https://apps.apple.com/de/app/macos-big-sur/id1526878132?mt=12)
+- [macOS Catalina 10.15](https://apps.apple.com/gb/app/macos-catalina/id1466841314?mt=12)
+- [macOS Mojave 10.14](https://apps.apple.com/gb/app/macos-mojave/id1398502828?mt=12)
+- [macOS High Sierra 10.13](https://apps.apple.com/us/app/macos-high-sierra/id1246284741?mt=12)
+
+Download installers (via Safari):
+- [macOS Sierra 10.12](http://updates-http.cdn-apple.com/2019/cert/061-39476-20191023-48f365f4-0015-4c41-9f44-39d3d2aca067/InstallOS.dmg)
+- [OS X El Capitan 10.11](http://updates-http.cdn-apple.com/2019/cert/061-41424-20191024-218af9ec-cf50-4516-9011-228c78eda3d2/InstallMacOSX.dmg)
+- [OS X Yosemite 10.10](http://updates-http.cdn-apple.com/2019/cert/061-41343-20191023-02465f92-3ab5-4c92-bfe2-b725447a070d/InstallMacOSX.dmg)
+
+<br/>
+<br/>
+
+[Create an bootable USB flash drive](https://support.apple.com/en-us/HT201372):
+- Big Sur*: **sudo /Applications/Install\ macOS\ Big\ Sur.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume**
+- Catalina*: **sudo /Applications/Install\ macOS\ Catalina.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume**
+- Mojave*: **sudo /Applications/Install\ macOS\ Mojave.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume**
+- High Sierra*: **sudo /Applications/Install\ macOS\ High\ Sierra.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume**
+- El Capitan: **sudo /Applications/Install\ OS\ X\ El\ Capitan.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume --applicationpath /Applications/Install\ OS\ X\ El\ Capitan.app**
+
+*If your Mac is using macOS Sierra or earlier, include the `--applicationpath` argument and installer path, similar to the way this is done in the command for El Capitan.
+
+
+
+
