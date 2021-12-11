@@ -111,6 +111,7 @@ M1 ... M1 Chip
 ## Download links for the installer
 
 Download installers (using Safari to search in the App Store):
+- [macOS Monterey 12](https://apps.apple.com/us/app/macos-monterey/id1576738294?mt=12)
 - [macOS Big Sur 11](https://apps.apple.com/de/app/macos-big-sur/id1526878132?mt=12)
 - [macOS Catalina 10.15](https://apps.apple.com/gb/app/macos-catalina/id1466841314?mt=12)
 - [macOS Mojave 10.14](https://apps.apple.com/gb/app/macos-mojave/id1398502828?mt=12)
@@ -126,6 +127,7 @@ Download installers (via Safari):
 ## Create a bootable Stick
 
 [Create a bootable USB flash drive](https://support.apple.com/en-us/HT201372):
+- Monterey: **sudo /Applications/Install\ macOS\ Monterey.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume**
 - Big Sur: **sudo /Applications/Install\ macOS\ Big\ Sur.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume**
 - Catalina: **sudo /Applications/Install\ macOS\ Catalina.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume**
 - Mojave: **sudo /Applications/Install\ macOS\ Mojave.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume**
