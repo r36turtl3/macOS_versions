@@ -154,7 +154,7 @@ A macOS Version is three years maintained.
 ## Download links for the installer
 
 Download installers (using Safari to search in the App Store):
-- [macOS Ventura 13](macappstores://apps.apple.com/app/macos-ventura/id1638787999?mt=12)
+- [macOS Ventura 13](https://apps.apple.com/app/macos-ventura/id1638787999?mt=12)
 - [macOS Monterey 12](https://apps.apple.com/us/app/macos-monterey/id1576738294?mt=12)
 - [macOS Big Sur 11](https://apps.apple.com/de/app/macos-big-sur/id1526878132?mt=12)
 - [macOS Catalina 10.15](https://apps.apple.com/gb/app/macos-catalina/id1466841314?mt=12)
