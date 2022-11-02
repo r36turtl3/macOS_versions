@@ -117,6 +117,23 @@ M2 ... M2 Chip
 | 13 | Ventura | 2022 |
 | 12 | Monterey | 2022 |
 
+## Release years
+
+A macOS Version is three years maintained.
+
+| Version # of macOS | Version name | Release year |
+| ---------------- | ---- | ------- |
+| 13 | Ventura | 2022 |
+| 12 | Monterey | 2021 |
+| 11 / 10.16 | Big Sur | 2020 |
+| 10.15 | Catalina | 2019 |
+| 10.14 | Mojave | 2018 |
+| 10.13 | High Sierra | 2017 |
+| 10.12 | Sierra | 2016 |
+| 10.11 | El Capitan | 2015 |
+| 10.10 | Yosemite | 2014 |
+| 10.09 | Mavericks | 2013 |
+
 ## Upgrade possibilities
 
 - macOS Catalina 10.15 can upgrade Mojave, High Sierra, Sierra, El Capitan, Yosemite or Mavericks
