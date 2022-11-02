@@ -19,6 +19,7 @@ M2 ... M2 Chip
 
 | Version # of macOS | Version name | MacBook Air 11" | MacBook Air 13" |
 | ---------------- | ---- | ------- | -------- |
+| 13 | Ventura |  | 2018R, 2019R, 2020R, 2020_M1, 2022_M2 |
 | 12 | Monterey | E2015 | E2015, 2017, 2018R, 2019R, 2020R, 2020_M1, 2022_M2 |
 | 11 / 10.16 | Big Sur | M2012, E2014, E2015 | M2013, E2014, E2015, 2017R, 2018R, 2019R, 2020R, 2020_M1 |
 | 10.15 | Catalina | M2012, M2013, E2014, E2015 | M2012, M2013, E2014, E2015, 2017, 2018R, 2019R, 2020R |
@@ -34,6 +35,7 @@ M2 ... M2 Chip
 
 | Version # of macOS | Version name | MacBook Pro 13" | MacBook Pro 14" | MacBook Pro 15" | MacBook Pro 16" |
 | ---------------- | ---- | ----------- | ----------- | ----------- | ----------- |
+| 13 | Ventura | 2017_2_TB, 2017_4_TB, 2018_4_TB, 2019_2_TB, 2019_4_TB, 2020_2_TB, 2020_4_TB, 2020_M1, 2022_M2 | 2021 | 2017, 2018, 2019 | 2021 |
 | 12 | Monterey | E2015R, 2016_2_TB, 2016_4_TB, 2017_2_TB, 2017_4_TB, 2018_4_TB, 2019_2_TB, 2019_4_TB, 2020_2_TB, 2020_4_TB, 2020_M1, 2022_M2 | 2021 | M2015R, 2016, 2017, 2018, 2019 | 2019, 2021 |
 | 11 / 10.16 | Big Sur | L2013R, M2014R, E2015R, 2016_2_TB, 2017_4_TB, 2018_4_TB, 2019_4_TB, 2020_4_TB, 2020_2_TB, 2020_M1 | | L2013R, M2014R, M2015R, 2016, 2017, 2018, 2019 | 2019 |
 | 10.15 | Catalina | M2012, L2012R, E2013R, L2013R, M2014R, E2015R, 2016_2_TB, 2017_2_TB, 2017_4_TB, 2018_4_TB, 2019_4_TB, 2019_2_TB, 2020_4_TB, 2020_2_TB | | M2012R, M2012R, E2013R, L2013R, M2014R, M2015R, 2016, 2017, 2018, 2019, | 2019 |
@@ -49,6 +51,7 @@ M2 ... M2 Chip
 
 | Version # of macOS | Version name | MacBook |
 | ---------------- | ---- | ---- |
+| 13 | Ventura | 2017R_12 |
 | 12 | Monterey | E2016R_12, 2017R_12 |
 | 11 / 10.16 | Big Sur | E2015R_12", E2016R_12", 2017R_12" |
 | 10.15 | Catalina | E2015R_12", E2016R_12", 2017R_12" |
@@ -64,6 +67,7 @@ M2 ... M2 Chip
 
 | Version # of macOS | Version name | iMac Pro | iMac 21,5" | iMac 24" | iMac 27" |
 | ---------------- | ---- | -------- | ------- | ---- | ---- |
+| 13 | Ventura | 2017 | 2017, 2017R4, 2019R4 | 2021M1 | 2017R5, 2019R5, 2020R5 |
 | 12 | Monterey | 2017 | L2015, L2015R4, 2017, 2017R4, 2019R4 | 2021M1| L2015R5, 2017R5, 2019R5, 2020R5 |
 | 11 / 10.16 | Big Sur | 2017 | M2014, L2015, L2015R4, 2017, 2017R4, 2019R4 | | L2014R5, M2015R5, L2015R5, 2017R5, 2019R5, 2020R5 |
 | 10.15 | Catalina | 2017 | L2012, L2013, M2014, L2014, L2015R4, 2017, 2017R4, 2019R4 | | L2012, L2013, L2014R5, M2015R5, L2015R5, 2017R5,2019R5, 2020R5 |
@@ -79,6 +83,7 @@ M2 ... M2 Chip
 
 | Version # of macOS | Version name | Mac mini |
 | ---------------- | ---- | -------- |
+| 13 | Ventura | 2018, 2020_M1 |
 | 12 | Monterey | L2014, 2018, 2020_M1 |
 | 11 / 10.16 | Big Sur | L2014, 2018, 2020_M1 |
 | 10.15 | Catalina | L2012, L2014, 2018 |
@@ -94,6 +99,7 @@ M2 ... M2 Chip
 
 | Version # of macOS | Version name | Mac Pro |
 | ---------------- | ---- | ------- |
+| 13 | Ventura | 2019 |
 | 12 | Monterey | L2013, 2019 |
 | 11 / 10.16 | Big Sur | L2013, 2020 |
 | 10.15 | Catalina | L2013, 2019 |
@@ -108,6 +114,7 @@ M2 ... M2 Chip
 
 | Version # of macOS | Version name | Mac Studio |
 | ---------------- | ---- | ------- |
+| 13 | Ventura | 2022 |
 | 12 | Monterey | 2022 |
 
 ## Upgrade possibilities
@@ -123,6 +130,7 @@ M2 ... M2 Chip
 ## Download links for the installer
 
 Download installers (using Safari to search in the App Store):
+- [macOS Ventura 13](macappstores://apps.apple.com/app/macos-ventura/id1638787999?mt=12)
 - [macOS Monterey 12](https://apps.apple.com/us/app/macos-monterey/id1576738294?mt=12)
 - [macOS Big Sur 11](https://apps.apple.com/de/app/macos-big-sur/id1526878132?mt=12)
 - [macOS Catalina 10.15](https://apps.apple.com/gb/app/macos-catalina/id1466841314?mt=12)
@@ -139,6 +147,7 @@ Download installers (via Safari):
 ## Create a bootable Stick
 
 [Create a bootable USB flash drive](https://support.apple.com/en-us/HT201372):
+- Ventura: **sudo /Applications/Install\ macOS\ Ventura.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume**
 - Monterey: **sudo /Applications/Install\ macOS\ Monterey.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume**
 - Big Sur: **sudo /Applications/Install\ macOS\ Big\ Sur.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume**
 - Catalina: **sudo /Applications/Install\ macOS\ Catalina.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume**
