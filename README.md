@@ -11,7 +11,8 @@ TB ... Thunderbolt Ports <br/>
 R ... Retina <br/>
 R4 ... Retina 4K <br/>
 R5 ... Retina 5K <br/>
-M1 ... M1 Chip
+M1 ... M1 Chip <br/>
+M2 ... M2 Chip
 
 
 ## MacBook Air
