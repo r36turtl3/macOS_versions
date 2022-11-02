@@ -117,6 +117,13 @@ M2 ... M2 Chip
 | 13 | Ventura | 2022 |
 | 12 | Monterey | 2022 |
 
+
+
+
+---
+
+
+
 ## Release years
 
 A macOS Version is three years maintained.
